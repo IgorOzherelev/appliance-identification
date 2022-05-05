@@ -1,3 +1,3 @@
-# Классификация временных рядов при помощи wavelet преобразований на основе сверточных нейронных сетей 
+# Time series classification using wavelet transforms based on convolutional neural networks
 
-Первая версия моей дипломной работы. Конечную версию, к сожалению, показывать нельзя в связи с требованием компании правообладателя. Данный репозиторий носит сугубо учебную цель и не является распространением кода компании.
+The first version of my thesis. The final version, unfortunately, cannot be shown due to the requirement of the copyright holder company. This repository is for educational purposes only and is not a distribution of company code.
